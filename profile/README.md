@@ -1,8 +1,8 @@
 # AMT Digital Limited: NetSuite Solutions Catalogue
 
-**Total solutions: 109**  |  Bundles 58  |  Scripts 9  |  Saved Searches 4  |  Integrations 6  |  Trading Docs 32
+**Total solutions: 109**  |  Bundles 58  |  Scripts 15  |  Saved Searches 4  |  Integrations 6  |  Trading Docs 26
 
-All solutions are organised in the `amt-scripts` GitHub repository, grouped by client where a solution has been customised for a specific deployment.
+All solutions are organised in the `amt-scripts` GitHub repository, grouped by client where a solution has been customised for a specific deployment. Trading Docs covers the PDF print templates themselves; solutions that are code and merely touch a print template are classed under Scripts instead.
 
 ---
 
@@ -71,17 +71,23 @@ All solutions are organised in the `amt-scripts` GitHub repository, grouped by c
 
 ---
 
-## ⚡ SCRIPTS  (9)
+## ⚡ SCRIPTS  (15)
 
 | Repository | Components | Notes |
 |---|---|---|
+| [AMT-vendor-statement](https://github.com/AMT-Digital-Limited/AMT-vendor-statement) (Vendor Statement) | SuiteScript, Trading Document Template |  |
+| [AMT-tc-po-print](https://github.com/AMT-Digital-Limited/AMT-tc-po-print) (Terms and Conditions PO Print) | Custom Fields, Trading Document Template |  |
+| [AMT-wht-bill-payment](https://github.com/AMT-Digital-Limited/AMT-wht-bill-payment) (WHT Breakdown on Bill Payment) | SuiteScript, Trading Document Template | Variants: client-belize (WH Tax Bill Payment (Belize base)); client-igpes (Bill Credit WHT Report) |
 | [AMT-journal-name-check](https://github.com/AMT-Digital-Limited/AMT-journal-name-check) (Journal Name Check) | SuiteScript |  |
 | [AMT-export-invoice](https://github.com/AMT-Digital-Limited/AMT-export-invoice) (Export Invoice) | SuiteScript (Client, Suitelet) |  |
 | [AMT-trans-creation-check](https://github.com/AMT-Digital-Limited/AMT-trans-creation-check) (Transaction Creation Check) | SuiteScript |  |
+| [AMT-display-paid-bills](https://github.com/AMT-Digital-Limited/AMT-display-paid-bills) (Display Paid Bills on Bill Payment) | SuiteScript, Trading Document Template | Variants: client-petromarine (Display Paid Bills (Petromarine)) |
 | [AMT-ensure-tax-preview](https://github.com/AMT-Digital-Limited/AMT-ensure-tax-preview) (Ensure Tax Preview) | SuiteScript |  |
 | [AMT-merge-pdf](https://github.com/AMT-Digital-Limited/AMT-merge-pdf) (Merge PDF Files) | SuiteScript |  |
 | [AMT-batch-approval](https://github.com/AMT-Digital-Limited/AMT-batch-approval) (Batch Approval) | SuiteScript |  |
+| [AMT-discount-after-tax](https://github.com/AMT-Digital-Limited/AMT-discount-after-tax) (Discount After Tax) | SuiteScript, Trading Document Template |  |
 | [AMT-journal-line-sum](https://github.com/AMT-Digital-Limited/AMT-journal-line-sum) (Journal Line Sum in Header) | SuiteScript, Custom Fields |  |
+| [AMT-local-payment-template](https://github.com/AMT-Digital-Limited/AMT-local-payment-template) (Local Payment Template) | SuiteScript, Trading Document Template |  |
 | [AMT-amcow-amt-custom](https://github.com/AMT-Digital-Limited/AMT-amcow-amt-custom) (AMCOW Custom Scripts) | SuiteScript, Workflow, Custom Fields |  |
 | [AMT-itf-link](https://github.com/AMT-Digital-Limited/AMT-itf-link) (ITF Link to Invoice) | SuiteScript, Custom Fields |  |
 
@@ -111,16 +117,10 @@ All solutions are organised in the `amt-scripts` GitHub repository, grouped by c
 
 ---
 
-## 📄 TRADING DOCS  (32)
+## 📄 TRADING DOCS  (26)
 
 | Repository | Components | Notes |
 |---|---|---|
-| [AMT-vendor-statement](https://github.com/AMT-Digital-Limited/AMT-vendor-statement) (Vendor Statement) | SuiteScript, Trading Document Template |  |
-| [AMT-tc-po-print](https://github.com/AMT-Digital-Limited/AMT-tc-po-print) (Terms and Conditions PO Print) | Custom Fields, Trading Document Template |  |
-| [AMT-wht-bill-payment](https://github.com/AMT-Digital-Limited/AMT-wht-bill-payment) (WHT Breakdown on Bill Payment) | SuiteScript, Trading Document Template | Variants: client-belize (WH Tax Bill Payment (Belize base)); client-igpes (Bill Credit WHT Report) |
-| [AMT-display-paid-bills](https://github.com/AMT-Digital-Limited/AMT-display-paid-bills) (Display Paid Bills on Bill Payment) | SuiteScript, Trading Document Template | Variants: client-petromarine (Display Paid Bills (Petromarine)) |
-| [AMT-discount-after-tax](https://github.com/AMT-Digital-Limited/AMT-discount-after-tax) (Discount After Tax) | SuiteScript, Trading Document Template |  |
-| [AMT-local-payment-template](https://github.com/AMT-Digital-Limited/AMT-local-payment-template) (Local Payment Template) | SuiteScript, Trading Document Template |  |
 | [AMT-td-credit-memo](https://github.com/AMT-Digital-Limited/AMT-td-credit-memo) (Credit Memo) | Trading Document Template (English) |  |
 | [AMT-td-credit-memo-french](https://github.com/AMT-Digital-Limited/AMT-td-credit-memo-french) (Credit Memo (French)) | Trading Document Template (French) |  |
 | [AMT-td-customer-deposit](https://github.com/AMT-Digital-Limited/AMT-td-customer-deposit) (Customer Deposit) | Trading Document Template (English) |  |
