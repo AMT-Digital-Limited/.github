@@ -1,7 +1,7 @@
 # AMT Digital Limited: NetSuite Solutions Catalogue
 
-**Total Live Repositories: 52**  |  SDF Master Bundles: 26  |  Integrations & Reports: 3  |  Trading Documents: 4  |  Custom Solutions & Scripts: 17  
-*Last updated: 2026-08-12*
+**Total Live Repositories: 57**  |  SDF Master Bundles: 26  |  Integrations & Reports: 3  |  Trading Documents: 4  |  Custom Solutions & Scripts: 17  
+*Last updated: 2026-08-13*
 
 Welcome to the **AMT Digital Limited** enterprise repository catalogue. All NetSuite solutions are maintained as standalone repositories with complete **SuiteCloud Development Framework (SDF)** XML definitions (`Objects/`), custom records, fields, searches, and SuiteScripts (`FileCabinet/`).
 
@@ -93,12 +93,17 @@ Client-specific customizations, operational workflows, and automation scripts:
 
 ---
 
-## 📁 Other Solutions (2)
+## 📁 Other Solutions (7)
 
 | Repository | Description / Scope | Visibility |
 |---|---|:---:|
 | [Advance-Request](https://github.com/AMT-Digital-Limited/Advance-Request) | Repository for Advance Request | `Private` |
+| [Assembly-Build-By-Product](https://github.com/AMT-Digital-Limited/Assembly-Build-By-Product) | AMT Assembly Build By Product Solution SuiteApp (Bundle 586316) | `Private` |
 | [Bank-Details](https://github.com/AMT-Digital-Limited/Bank-Details) | Repository for Bank Details | `Private` |
+| [Material-Request-577679](https://github.com/AMT-Digital-Limited/Material-Request-577679) | AMT Material Request Variant SuiteApp (Bundle 577679) | `Private` |
+| [Material-Request-595811](https://github.com/AMT-Digital-Limited/Material-Request-595811) | AMT Material Request Variant SuiteApp (Bundle 595811) | `Private` |
+| [Material-Request-Primegate](https://github.com/AMT-Digital-Limited/Material-Request-Primegate) | AMT Material Request Primegate Variant SuiteApp (Bundle 599996) | `Private` |
+| [Transfer-Request-Primegate](https://github.com/AMT-Digital-Limited/Transfer-Request-Primegate) | AMT Transfer Request Primegate Variant SuiteApp (Bundle 599995) | `Private` |
 
 ---
 
