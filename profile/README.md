@@ -1,13 +1,13 @@
 # AMT Digital Limited: NetSuite Solutions Catalogue
 
-**Total Live Repositories: 57**  |  SDF Master Bundles: 26  |  Integrations & Reports: 3  |  Trading Documents: 4  |  Custom Solutions & Scripts: 17  
+**Total Live Repositories: 53**  |  SDF Master Bundles: 25  |  Integrations & Reports: 3  |  Trading Documents: 4  |  Custom Solutions & Scripts: 17  
 *Last updated: 2026-08-13*
 
 Welcome to the **AMT Digital Limited** enterprise repository catalogue. All NetSuite solutions are maintained as standalone repositories with complete **SuiteCloud Development Framework (SDF)** XML definitions (`Objects/`), custom records, fields, searches, and SuiteScripts (`FileCabinet/`).
 
 ---
 
-## 📦 NetSuite Official SDF Master Bundles (26)
+## 📦 NetSuite Official SDF Master Bundles (25)
 
 These repositories contain complete NetSuite SuiteCloud Development Framework (SDF) bundles with full XML object metadata, custom records, custom fields, and SuiteScripts:
 
@@ -23,7 +23,6 @@ These repositories contain complete NetSuite SuiteCloud Development Framework (S
 | [FIRS-LGA-State](https://github.com/AMT-Digital-Limited/FIRS-LGA-State) | AMT FIRS LGA/State Codes SuiteApp (Bundle 596960) | `Private` |
 | [Implementation-Centre](https://github.com/AMT-Digital-Limited/Implementation-Centre) | AMT Implementation Centre SuiteApp (Bundle 530427) | `Private` |
 | [Material-Request](https://github.com/AMT-Digital-Limited/Material-Request) | Repository for Material Request | `Private` |
-| [Material-Request-Serialised-Items](https://github.com/AMT-Digital-Limited/Material-Request-Serialised-Items) | AMT Material Request for Serialized Items SuiteApp (Bundle 581205) | `Private` |
 | [Mirror-Invoice](https://github.com/AMT-Digital-Limited/Mirror-Invoice) | AMT Mirror Invoice Split SuiteApp (Bundle 480358) | `Private` |
 | [NRS-Service-Codes](https://github.com/AMT-Digital-Limited/NRS-Service-Codes) | AMT NRS Service Codes SuiteApp (Bundle 705610) | `Private` |
 | [Out-Of-Office-Delegation](https://github.com/AMT-Digital-Limited/Out-Of-Office-Delegation) | AMT Out of Office Delegation SuiteApp (Bundle 539053) | `Private` |
@@ -93,16 +92,13 @@ Client-specific customizations, operational workflows, and automation scripts:
 
 ---
 
-## 📁 Other Solutions (7)
+## 📁 Other Solutions (4)
 
 | Repository | Description / Scope | Visibility |
 |---|---|:---:|
 | [Advance-Request](https://github.com/AMT-Digital-Limited/Advance-Request) | Repository for Advance Request | `Private` |
 | [Assembly-Build-By-Product](https://github.com/AMT-Digital-Limited/Assembly-Build-By-Product) | AMT Assembly Build By Product Solution SuiteApp (Bundle 586316) | `Private` |
 | [Bank-Details](https://github.com/AMT-Digital-Limited/Bank-Details) | Repository for Bank Details | `Private` |
-| [Material-Request-577679](https://github.com/AMT-Digital-Limited/Material-Request-577679) | AMT Material Request Variant SuiteApp (Bundle 577679) | `Private` |
-| [Material-Request-595811](https://github.com/AMT-Digital-Limited/Material-Request-595811) | AMT Material Request Variant SuiteApp (Bundle 595811) | `Private` |
-| [Material-Request-Primegate](https://github.com/AMT-Digital-Limited/Material-Request-Primegate) | AMT Material Request Primegate Variant SuiteApp (Bundle 599996) | `Private` |
 | [Transfer-Request-Primegate](https://github.com/AMT-Digital-Limited/Transfer-Request-Primegate) | AMT Transfer Request Primegate Variant SuiteApp (Bundle 599995) | `Private` |
 
 ---
