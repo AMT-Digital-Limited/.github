@@ -1,13 +1,13 @@
 # AMT Digital Limited: NetSuite Solutions Catalogue
 
-**Total Live Repositories: 53**  |  SDF Master Bundles: 25  |  Integrations & Reports: 3  |  Trading Documents: 4  |  Custom Solutions & Scripts: 17  
-*Last updated: 2026-08-13*
+**Total Live Repositories: 53**  |  SDF Master Bundles: 24  |  Integrations & Reports: 3  |  Trading Documents: 4  |  Custom Solutions & Scripts: 17  
+*Last updated: 2026-08-14*
 
 Welcome to the **AMT Digital Limited** enterprise repository catalogue. All NetSuite solutions are maintained as standalone repositories with complete **SuiteCloud Development Framework (SDF)** XML definitions (`Objects/`), custom records, fields, searches, and SuiteScripts (`FileCabinet/`).
 
 ---
 
-## 📦 NetSuite Official SDF Master Bundles (25)
+## 📦 NetSuite Official SDF Master Bundles (24)
 
 These repositories contain complete NetSuite SuiteCloud Development Framework (SDF) bundles with full XML object metadata, custom records, custom fields, and SuiteScripts:
 
@@ -33,7 +33,6 @@ These repositories contain complete NetSuite SuiteCloud Development Framework (S
 | [Test-Cases](https://github.com/AMT-Digital-Limited/Test-Cases) | AMT Test Cases Management SuiteApp (Bundle 535544) | `Private` |
 | [Trading-Documents-Engine](https://github.com/AMT-Digital-Limited/Trading-Documents-Engine) | AMT Trading Documents Advanced Print Engine SuiteApp (Bundle 573811) | `Private` |
 | [Trading-Documents-Suite](https://github.com/AMT-Digital-Limited/Trading-Documents-Suite) | AMT Trading Documents Printouts & Templates SuiteApp (Bundle 573798) | `Private` |
-| [Transfer-Request-To-Order](https://github.com/AMT-Digital-Limited/Transfer-Request-To-Order) | AMT Transfer Request to Transfer Order SuiteApp (Bundle 590022) | `Private` |
 | [Vendor-Invoicing](https://github.com/AMT-Digital-Limited/Vendor-Invoicing) | Repository for Vendor Invoicing | `Private` |
 | [Vendor-Prepayment-Request-SDF](https://github.com/AMT-Digital-Limited/Vendor-Prepayment-Request-SDF) | AMT Vendor Prepayment Request SDF SuiteApp (Bundle 595110) | `Private` |
 | [Vendor-Registration](https://github.com/AMT-Digital-Limited/Vendor-Registration) | AMT Vendor Registration Portal SuiteApp (Bundle 596817) | `Private` |
@@ -92,14 +91,15 @@ Client-specific customizations, operational workflows, and automation scripts:
 
 ---
 
-## 📁 Other Solutions (4)
+## 📁 Other Solutions (5)
 
 | Repository | Description / Scope | Visibility |
 |---|---|:---:|
 | [Advance-Request](https://github.com/AMT-Digital-Limited/Advance-Request) | Repository for Advance Request | `Private` |
 | [Assembly-Build-By-Product](https://github.com/AMT-Digital-Limited/Assembly-Build-By-Product) | AMT Assembly Build By Product Solution SuiteApp (Bundle 586316) | `Private` |
 | [Bank-Details](https://github.com/AMT-Digital-Limited/Bank-Details) | Repository for Bank Details | `Private` |
-| [Transfer-Request-Primegate](https://github.com/AMT-Digital-Limited/Transfer-Request-Primegate) | AMT Transfer Request Primegate Variant SuiteApp (Bundle 599995) | `Private` |
+| [Claims-Payment-Request](https://github.com/AMT-Digital-Limited/Claims-Payment-Request) | Solution | `Public` |
+| [Transfer-Request](https://github.com/AMT-Digital-Limited/Transfer-Request) | Solution | `Public` |
 
 ---
 
