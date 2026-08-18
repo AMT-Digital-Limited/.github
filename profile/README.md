@@ -1,7 +1,7 @@
 # AMT Digital Limited: NetSuite Solutions Catalogue
 
-**Total Live Repositories: 53**  |  SDF Master Bundles: 24  |  Integrations & Reports: 3  |  Trading Documents: 4  |  Custom Solutions & Scripts: 17  
-*Last updated: 2026-08-14*
+**Total Live Repositories: 61**  |  SDF Master Bundles: 24  |  Integrations & Reports: 3  |  Trading Documents: 4  |  Custom Solutions & Scripts: 17  
+*Last updated: 2026-08-18*
 
 Welcome to the **AMT Digital Limited** enterprise repository catalogue. All NetSuite solutions are maintained as standalone repositories with complete **SuiteCloud Development Framework (SDF)** XML definitions (`Objects/`), custom records, fields, searches, and SuiteScripts (`FileCabinet/`).
 
@@ -91,15 +91,23 @@ Client-specific customizations, operational workflows, and automation scripts:
 
 ---
 
-## 📁 Other Solutions (5)
+## 📁 Other Solutions (13)
 
 | Repository | Description / Scope | Visibility |
 |---|---|:---:|
 | [Advance-Request](https://github.com/AMT-Digital-Limited/Advance-Request) | Repository for Advance Request | `Private` |
 | [Assembly-Build-By-Product](https://github.com/AMT-Digital-Limited/Assembly-Build-By-Product) | AMT Assembly Build By Product Solution SuiteApp (Bundle 586316) | `Private` |
 | [Bank-Details](https://github.com/AMT-Digital-Limited/Bank-Details) | Repository for Bank Details | `Private` |
+| [Cheque-Solution](https://github.com/AMT-Digital-Limited/Cheque-Solution) | Core solution for Cheque-Solution | `Private` |
 | [Claims-Payment-Request](https://github.com/AMT-Digital-Limited/Claims-Payment-Request) | Solution | `Public` |
+| [Cost-Sheet](https://github.com/AMT-Digital-Limited/Cost-Sheet) | Core solution for Cost-Sheet | `Private` |
+| [Custom-Scripts](https://github.com/AMT-Digital-Limited/Custom-Scripts) | Central repository for custom client scripts | `Private` |
+| [demo-repository](https://github.com/AMT-Digital-Limited/demo-repository) | A code repository designed to show the best GitHub has to offer. | `Private` |
+| [Due-Invoices](https://github.com/AMT-Digital-Limited/Due-Invoices) | Core solution for Due-Invoices | `Private` |
+| [Import-Insurance](https://github.com/AMT-Digital-Limited/Import-Insurance) | Core solution for Import-Insurance | `Private` |
+| [Saved-Searches](https://github.com/AMT-Digital-Limited/Saved-Searches) | Central repository for custom saved searches | `Private` |
 | [Transfer-Request](https://github.com/AMT-Digital-Limited/Transfer-Request) | Solution | `Public` |
+| [Workflows](https://github.com/AMT-Digital-Limited/Workflows) | Central repository for custom workflows | `Private` |
 
 ---
 
