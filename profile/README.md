@@ -1,7 +1,7 @@
 # AMT Digital Limited: NetSuite Solutions Catalogue
 
 **Total Live Repositories: 76**  |  SDF Master Bundles: 24  |  Integrations & Reports: 3  |  Trading Documents: 4  |  Custom Solutions & Scripts: 17  
-*Last updated: 2026-08-19*
+*Last updated: 2026-08-21*
 
 Welcome to the **AMT Digital Limited** enterprise repository catalogue. All NetSuite solutions are maintained as standalone repositories with complete **SuiteCloud Development Framework (SDF)** XML definitions (`Objects/`), custom records, fields, searches, and SuiteScripts (`FileCabinet/`).
 
@@ -98,11 +98,7 @@ Client-specific customizations, operational workflows, and automation scripts:
 | [Advance-Request](https://github.com/AMT-Digital-Limited/Advance-Request) | Repository for Advance Request | `Private` |
 | [Assembly-Build-By-Product](https://github.com/AMT-Digital-Limited/Assembly-Build-By-Product) | AMT Assembly Build By Product Solution SuiteApp (Bundle 586316) | `Private` |
 | [Bank-Details](https://github.com/AMT-Digital-Limited/Bank-Details) | Repository for Bank Details | `Private` |
-| [Bundle-361010](https://github.com/AMT-Digital-Limited/Bundle-361010) | NetSuite Bundle 361010 | `Private` |
-| [Bundle-419771](https://github.com/AMT-Digital-Limited/Bundle-419771) | NetSuite Bundle 419771 | `Private` |
-| [Bundle-471145](https://github.com/AMT-Digital-Limited/Bundle-471145) | NetSuite Bundle 471145 | `Private` |
 | [Bundle-486894](https://github.com/AMT-Digital-Limited/Bundle-486894) | NetSuite Bundle 486894 | `Private` |
-| [Bundle-702313](https://github.com/AMT-Digital-Limited/Bundle-702313) | NetSuite Bundle 702313 | `Private` |
 | [Cheque-Solution](https://github.com/AMT-Digital-Limited/Cheque-Solution) | Core solution for Cheque-Solution | `Private` |
 | [Claims-Payment-Request](https://github.com/AMT-Digital-Limited/Claims-Payment-Request) | Solution | `Public` |
 | [Cost-Sheet](https://github.com/AMT-Digital-Limited/Cost-Sheet) | Core solution for Cost-Sheet | `Private` |
@@ -113,12 +109,16 @@ Client-specific customizations, operational workflows, and automation scripts:
 | [Inbound-Shipment](https://github.com/AMT-Digital-Limited/Inbound-Shipment) | Core solution for Inbound-Shipment | `Private` |
 | [Letter-Of-Credit](https://github.com/AMT-Digital-Limited/Letter-Of-Credit) | Core solution for Letter-Of-Credit | `Private` |
 | [NSPB-Financial-Statements](https://github.com/AMT-Digital-Limited/NSPB-Financial-Statements) | NSPB Financial Statements Saved Searches | `Private` |
+| [Ohada-TB](https://github.com/AMT-Digital-Limited/Ohada-TB) | NetSuite Bundle 471145 | `Private` |
+| [Paga-Integration-Original](https://github.com/AMT-Digital-Limited/Paga-Integration-Original) | NetSuite Bundle 702313 | `Private` |
 | [Payment-Request](https://github.com/AMT-Digital-Limited/Payment-Request) | Core solution for Payment-Request | `Private` |
 | [Print-Fulfilment-Request](https://github.com/AMT-Digital-Limited/Print-Fulfilment-Request) | Core solution for Print-Fulfilment-Request | `Private` |
 | [Print-Inventory-Adjustment](https://github.com/AMT-Digital-Limited/Print-Inventory-Adjustment) | Core solution for Print-Inventory-Adjustment | `Private` |
 | [Print-Job-Work-Order](https://github.com/AMT-Digital-Limited/Print-Job-Work-Order) | Core solution for Print-Job-Work-Order | `Private` |
 | [Print-Requisition](https://github.com/AMT-Digital-Limited/Print-Requisition) | Core solution for Print-Requisition | `Private` |
 | [Saved-Searches](https://github.com/AMT-Digital-Limited/Saved-Searches) | Central repository for custom saved searches | `Private` |
+| [SIM-PTH-CM-Solution](https://github.com/AMT-Digital-Limited/SIM-PTH-CM-Solution) | NetSuite Bundle 419771 | `Private` |
+| [SIM-PTH-Remittance](https://github.com/AMT-Digital-Limited/SIM-PTH-Remittance) | NetSuite Bundle 361010 | `Private` |
 | [Trade-Payables](https://github.com/AMT-Digital-Limited/Trade-Payables) | Core solution for Trade-Payables | `Private` |
 | [Trade-Receivables](https://github.com/AMT-Digital-Limited/Trade-Receivables) | Core solution for Trade-Receivables | `Private` |
 | [Transfer-Request](https://github.com/AMT-Digital-Limited/Transfer-Request) | Solution | `Public` |
