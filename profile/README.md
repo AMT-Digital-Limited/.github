@@ -1,6 +1,6 @@
 # AMT Digital Limited: NetSuite Solutions Catalogue
 
-**Total Live Repositories: 76**  |  SDF Master Bundles: 20  |  Integrations & Reports: 7  |  Trading Documents: 13  |  Custom Solutions & Scripts: 17  
+**Total Live Repositories: 75**  |  SDF Master Bundles: 20  |  Integrations & Reports: 7  |  Trading Documents: 16  |  Custom Solutions & Scripts: 17  
 *Last updated: 2026-08-21*
 
 Welcome to the **AMT Digital Limited** enterprise repository catalogue. All NetSuite solutions are maintained as standalone repositories with complete **SuiteCloud Development Framework (SDF)** XML definitions (`Objects/`), custom records, fields, searches, and SuiteScripts (`FileCabinet/`).
@@ -52,7 +52,7 @@ Financial statement consolidation, Power BI connectors, and external payment gat
 
 ---
 
-## 📑 Trading Documents & Print Templates (13)
+## 📑 Trading Documents & Print Templates (16)
 
 Advanced HTML/PDF print templates, printout engines, and font assets:
 
@@ -63,8 +63,11 @@ Advanced HTML/PDF print templates, printout engines, and font assets:
 | [Cost-Sheet](https://github.com/AMT-Digital-Limited/Cost-Sheet) | Core solution for Cost-Sheet | `Private` |
 | [GRV-Export](https://github.com/AMT-Digital-Limited/GRV-Export) | Repository for GRV Export | `Private` |
 | [GRV-Printout](https://github.com/AMT-Digital-Limited/GRV-Printout) | Repository for GRV Printout | `Private` |
+| [Import-Insurance](https://github.com/AMT-Digital-Limited/Import-Insurance) | Core solution for Import-Insurance | `Private` |
+| [Inbound-Shipment](https://github.com/AMT-Digital-Limited/Inbound-Shipment) | Core solution for Inbound-Shipment | `Private` |
 | [Letter-Of-Credit](https://github.com/AMT-Digital-Limited/Letter-Of-Credit) | Core solution for Letter-Of-Credit | `Private` |
 | [Payment-Request](https://github.com/AMT-Digital-Limited/Payment-Request) | Core solution for Payment-Request | `Private` |
+| [Print-Fulfilment-Request](https://github.com/AMT-Digital-Limited/Print-Fulfilment-Request) | Core solution for Print-Fulfilment-Request | `Private` |
 | [Print-Inventory-Adjustment](https://github.com/AMT-Digital-Limited/Print-Inventory-Adjustment) | Core solution for Print-Inventory-Adjustment | `Private` |
 | [Print-Job-Work-Order](https://github.com/AMT-Digital-Limited/Print-Job-Work-Order) | Core solution for Print-Job-Work-Order | `Private` |
 | [Print-Requisition](https://github.com/AMT-Digital-Limited/Print-Requisition) | Core solution for Print-Requisition | `Private` |
@@ -100,7 +103,7 @@ Client-specific customizations, operational workflows, and automation scripts:
 
 ---
 
-## 📁 Other Solutions (19)
+## 📁 Other Solutions (15)
 
 | Repository | Description / Scope | Visibility |
 |---|---|:---:|
@@ -112,10 +115,6 @@ Client-specific customizations, operational workflows, and automation scripts:
 | [Custom-Scripts](https://github.com/AMT-Digital-Limited/Custom-Scripts) | Central repository for custom client scripts | `Private` |
 | [demo-repository](https://github.com/AMT-Digital-Limited/demo-repository) | A code repository designed to show the best GitHub has to offer. | `Private` |
 | [Due-Invoices](https://github.com/AMT-Digital-Limited/Due-Invoices) | Core solution for Due-Invoices | `Private` |
-| [Import-Insurance](https://github.com/AMT-Digital-Limited/Import-Insurance) | Core solution for Import-Insurance | `Private` |
-| [Inbound-Shipment](https://github.com/AMT-Digital-Limited/Inbound-Shipment) | Core solution for Inbound-Shipment | `Private` |
-| [Paga-Wallet-Integration](https://github.com/AMT-Digital-Limited/Paga-Wallet-Integration) | Repository for Paga Wallet Integration | `Private` |
-| [Print-Fulfilment-Request](https://github.com/AMT-Digital-Limited/Print-Fulfilment-Request) | Core solution for Print-Fulfilment-Request | `Private` |
 | [Saved-Searches](https://github.com/AMT-Digital-Limited/Saved-Searches) | Central repository for custom saved searches | `Private` |
 | [Trade-Payables](https://github.com/AMT-Digital-Limited/Trade-Payables) | Core solution for Trade-Payables | `Private` |
 | [Trade-Receivables](https://github.com/AMT-Digital-Limited/Trade-Receivables) | Core solution for Trade-Receivables | `Private` |
