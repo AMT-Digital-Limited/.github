@@ -60,7 +60,7 @@ Advanced HTML/PDF print templates, printout engines, and font assets:
 | Repository | Description / Scope | Visibility |
 |---|---|:---:|
 | [Arabic-Fonts](https://github.com/AMT-Digital-Limited/Arabic-Fonts) | Repository for Arabic Fonts | `Private` |
-| [Claims-Payment-Request](https://github.com/AMT-Digital-Limited/Claims-Payment-Request) | Trading Document / Print Template | `Public` |
+| [Claims-Payment-Request](https://github.com/AMT-Digital-Limited/Claims-Payment-Request) | Trading Document / Print Template | `Private` |
 | [Cost-Sheet](https://github.com/AMT-Digital-Limited/Cost-Sheet) | Core solution for Cost-Sheet | `Private` |
 | [GRV-Export](https://github.com/AMT-Digital-Limited/GRV-Export) | Repository for GRV Export | `Private` |
 | [GRV-Printout](https://github.com/AMT-Digital-Limited/GRV-Printout) | Repository for GRV Printout | `Private` |
@@ -120,7 +120,7 @@ Client-specific customizations, operational workflows, and automation scripts:
 | [Trade-Payables](https://github.com/AMT-Digital-Limited/Trade-Payables) | Core solution for Trade-Payables | `Private` |
 | [Trade-Receivables](https://github.com/AMT-Digital-Limited/Trade-Receivables) | Core solution for Trade-Receivables | `Private` |
 | [Trading-Documents-Engine](https://github.com/AMT-Digital-Limited/Trading-Documents-Engine) | AMT Trading Documents Advanced Print Engine SuiteApp (Bundle 573811) | `Private` |
-| [Transfer-Request](https://github.com/AMT-Digital-Limited/Transfer-Request) | Solution | `Public` |
+| [Transfer-Request](https://github.com/AMT-Digital-Limited/Transfer-Request) | Solution | `Private` |
 
 
 ---
