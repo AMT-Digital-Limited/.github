@@ -1,6 +1,6 @@
 # AMT Digital Limited: NetSuite Solutions Catalogue
 
-**Total Live Repositories: 75**  |  SDF Master Bundles: 20  |  Integrations & Reports: 7  |  Trading Documents: 16  |  Custom Solutions & Scripts: 17  
+**Total Live Repositories: 76**  |  SDF Master Bundles: 20  |  Integrations & Reports: 7  |  Trading Documents: 16  |  Custom Solutions & Scripts: 18  
 *Last updated: 2026-08-21*
 
 Welcome to the **AMT Digital Limited** enterprise repository catalogue. All NetSuite solutions are maintained as standalone repositories with complete **SuiteCloud Development Framework (SDF)** XML definitions (`Objects/`), custom records, fields, searches, and SuiteScripts (`FileCabinet/`).
@@ -77,7 +77,7 @@ Advanced HTML/PDF print templates, printout engines, and font assets:
 
 ---
 
-## 🛠️ Business Operations & Custom Solutions (17)
+## 🛠️ Business Operations & Custom Solutions (18)
 
 Client-specific customizations, operational workflows, and automation scripts:
 
@@ -96,6 +96,7 @@ Client-specific customizations, operational workflows, and automation scripts:
 | [MTN-Transaction-project-Budget-Script](https://github.com/AMT-Digital-Limited/MTN-Transaction-project-Budget-Script) | Repository for MTN Transaction project Budget Script | `Private` |
 | [Netsuite-License-Dashboard](https://github.com/AMT-Digital-Limited/Netsuite-License-Dashboard) | Repository for Netsuite License Dashboard | `Private` |
 | [NSPB-Financial-Statements](https://github.com/AMT-Digital-Limited/NSPB-Financial-Statements) | NSPB Financial Statements Saved Searches | `Private` |
+| [PGP-Solution](https://github.com/AMT-Digital-Limited/PGP-Solution) | PGP Solution Scripts | `Private` |
 | [Project-Initiation-Script](https://github.com/AMT-Digital-Limited/Project-Initiation-Script) | Repository for Project Initiation Script | `Private` |
 | [Scripts](https://github.com/AMT-Digital-Limited/Scripts) | Repository for Scripts | `Private` |
 | [Solution-Folder](https://github.com/AMT-Digital-Limited/Solution-Folder) | Repository for Solution Folder | `Private` |
