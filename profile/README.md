@@ -1,7 +1,7 @@
 # AMT Digital Limited: NetSuite Solutions Catalogue
 
-**Total Live Repositories: 76**  |  SDF Master Bundles: 20  |  Integrations & Reports: 7  |  Trading Documents: 16  |  Custom Solutions & Scripts: 18  
-*Last updated: 2026-08-21*
+**Total Live Repositories: 74**  |  SDF Master Bundles: 20  |  Integrations & Reports: 7  |  Trading Documents: 16  |  Custom Solutions & Scripts: 18  
+*Last updated: 2026-08-25*
 
 Welcome to the **AMT Digital Limited** enterprise repository catalogue. All NetSuite solutions are maintained as standalone repositories with complete **SuiteCloud Development Framework (SDF)** XML definitions (`Objects/`), custom records, fields, searches, and SuiteScripts (`FileCabinet/`).
 
@@ -33,7 +33,6 @@ These repositories contain complete NetSuite SuiteCloud Development Framework (S
 | [Vendor-Invoicing](https://github.com/AMT-Digital-Limited/Vendor-Invoicing) | Repository for Vendor Invoicing | `Private` |
 | [Vendor-Registration](https://github.com/AMT-Digital-Limited/Vendor-Registration) | AMT Vendor Registration Portal SuiteApp (Bundle 596817) | `Private` |
 | [Vendor-Statement](https://github.com/AMT-Digital-Limited/Vendor-Statement) | AMT Vendor Statement Printout SuiteApp (Bundle 544173) | `Private` |
-| [Vendor-Prepayment-Request-SDF](https://github.com/AMT-Digital-Limited/Vendor-Prepayment-Request-SDF) | AMT Vendor Prepayment Request SDF SuiteApp (Bundle 595110) | `Private` |
 
 ---
 
@@ -74,7 +73,7 @@ Advanced HTML/PDF print templates, printout engines, and font assets:
 | [Print-Requisition](https://github.com/AMT-Digital-Limited/Print-Requisition) | Core solution for Print-Requisition | `Private` |
 | [Remittance-Advice](https://github.com/AMT-Digital-Limited/Remittance-Advice) | Repository for Remittance Advice | `Private` |
 | [Vendor-Payment-Request](https://github.com/AMT-Digital-Limited/Vendor-Payment-Request) | Repository for Vendor Payment Request | `Private` |
-| [Trading-Documents-Suite](https://github.com/AMT-Digital-Limited/Trading-Documents-Suite) | AMT Trading Documents Printouts & Templates SuiteApp (Bundle 573798) | `Private` |
+| [Vendor-Prepayment-Request-SDF](https://github.com/AMT-Digital-Limited/Vendor-Prepayment-Request-SDF) | AMT Vendor Prepayment Request SDF SuiteApp (Bundle 595110) | `Private` |
 
 ---
 
@@ -105,7 +104,7 @@ Client-specific customizations, operational workflows, and automation scripts:
 
 ---
 
-## 📁 Other Solutions (15)
+## 📁 Other Solutions (13)
 
 | Repository | Description / Scope | Visibility |
 |---|---|:---:|
@@ -120,8 +119,8 @@ Client-specific customizations, operational workflows, and automation scripts:
 | [Trade-Payables](https://github.com/AMT-Digital-Limited/Trade-Payables) | Core solution for Trade-Payables | `Private` |
 | [Trade-Receivables](https://github.com/AMT-Digital-Limited/Trade-Receivables) | Core solution for Trade-Receivables | `Private` |
 | [Trading-Documents-Engine](https://github.com/AMT-Digital-Limited/Trading-Documents-Engine) | AMT Trading Documents Advanced Print Engine SuiteApp (Bundle 573811) | `Private` |
+| [Trading-Documents-Suite](https://github.com/AMT-Digital-Limited/Trading-Documents-Suite) | AMT Trading Documents Printouts & Templates SuiteApp (Bundle 573798) | `Private` |
 | [Transfer-Request](https://github.com/AMT-Digital-Limited/Transfer-Request) | Solution | `Private` |
-
 
 ---
 
@@ -133,3 +132,24 @@ Each NetSuite SDF repository is organized with standard SuiteCloud structure:
 ├── deploy.xml             # SDF deployment descriptor
 └── manifest.xml           # NetSuite App framework manifest
 ```
+
+---
+
+### 📜 Rules of Operations (GitHub Implementation Process Flow)
+To maintain strict code governance and quality control, all contributions must strictly adhere to the AMT Digital process flow:
+
+**1. Branch Naming Convention:**
+Never push directly to `main`. All changes must be made on a dedicated branch created from `main`.
+* Format: `Type/CR-XXXX-description` (e.g., `feature/CR-1023-fix-mt940`)
+
+**2. Commit Message Standard:**
+Every commit must clearly reference the Support Case or Change Request (CR) ID.
+* Format: `Case ID - CR-XXXX: Description`
+
+**3. Documentation Updates:**
+Whenever a script or workflow is modified, developers must create or update the corresponding `docs/scriptname.md` file in the repository to explain the logic changes.
+
+**4. Code Review & Approval Gate:**
+* Once development is complete, a **Pull Request (PR)** must be opened against the `main` branch.
+* Code cannot be merged until it is reviewed and approved by the Technical Lead (**@Chinwuba-Ifenwembi**) and Customer Success Manager/CEO (**@AMT-Digital**).
+* Only upon explicit approval can the PR be merged and the version tagged for production deployment.
