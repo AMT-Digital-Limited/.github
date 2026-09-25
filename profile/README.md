@@ -1,6 +1,6 @@
 # AMT Digital Limited: NetSuite Solutions Catalogue
 
-**Total Live Repositories: 74**  |  SDF Master Bundles: 20  |  Integrations & Reports: 7  |  Trading Documents: 16  |  Custom Solutions & Scripts: 18  
+**Total Live Repositories: 82**  |  SDF Master Bundles: 20  |  Integrations & Reports: 7  |  Trading Documents: 16  |  Custom Solutions & Scripts: 18  
 *Last updated: 2026-08-25*
 
 Welcome to the **AMT Digital Limited** enterprise repository catalogue. All NetSuite solutions are maintained as standalone repositories with complete **SuiteCloud Development Framework (SDF)** XML definitions (`Objects/`), custom records, fields, searches, and SuiteScripts (`FileCabinet/`).
