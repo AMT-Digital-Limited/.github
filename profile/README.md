@@ -1,7 +1,7 @@
 # AMT Digital Limited: NetSuite Solutions Catalogue
 
-**Total Live Repositories: 82**  |  SDF Master Bundles: 20  |  Integrations & Reports: 7  |  Trading Documents: 16  |  Custom Solutions & Scripts: 18  
-*Last updated: 2026-08-25*
+**Total Live Repositories: 81**  |  SDF Master Bundles: 20  |  Integrations & Reports: 6  |  Trading Documents: 16  |  Custom Solutions & Scripts: 18  
+*Last updated: 2026-09-25*
 
 Welcome to the **AMT Digital Limited** enterprise repository catalogue. All NetSuite solutions are maintained as standalone repositories with complete **SuiteCloud Development Framework (SDF)** XML definitions (`Objects/`), custom records, fields, searches, and SuiteScripts (`FileCabinet/`).
 
@@ -36,19 +36,18 @@ These repositories contain complete NetSuite SuiteCloud Development Framework (S
 
 ---
 
-## 🔗 Integrations & Financial Reporting (7)
+## 🔗 Integrations & Financial Reporting (6)
 
 Financial statement consolidation, Power BI connectors, and external payment gateway integrations:
 
 | Repository | Description / Scope | Visibility |
 |---|---|:---:|
-| [FCCS-Trail-Balance](https://github.com/AMT-Digital-Limited/FCCS-Trail-Balance) | Repository for FCCS Trail Balance | `Private` |
 | [FIRS-E-Invoicing-Integration](https://github.com/AMT-Digital-Limited/FIRS-E-Invoicing-Integration) | AMT FIRS E-Invoicing Integration SuiteApp (Bundle 588590) | `Private` |
 | [FIRS-HSN-Categories](https://github.com/AMT-Digital-Limited/FIRS-HSN-Categories) | AMT FIRS HSN Categories & Custom Records SuiteApp (Bundle 596819) | `Private` |
 | [FIRS-HSN-Codes](https://github.com/AMT-Digital-Limited/FIRS-HSN-Codes) | AMT FIRS HSN Codes SuiteApp (Bundle 596961) | `Private` |
 | [FIRS-LGA-State](https://github.com/AMT-Digital-Limited/FIRS-LGA-State) | AMT FIRS LGA/State Codes SuiteApp (Bundle 596960) | `Private` |
 | [Paga-Integrations](https://github.com/AMT-Digital-Limited/Paga-Integrations) | NetSuite Bundle 702313 | `Private` |
-| [Power-BI-Trail-Balance](https://github.com/AMT-Digital-Limited/Power-BI-Trail-Balance) | Repository for Power BI Trail Balance | `Private` |
+| [Power-BI-Trial-Balance](https://github.com/AMT-Digital-Limited/Power-BI-Trial-Balance) | Repository for Power BI Trail Balance | `Private` |
 
 ---
 
@@ -104,18 +103,26 @@ Client-specific customizations, operational workflows, and automation scripts:
 
 ---
 
-## 📁 Other Solutions (13)
+## 📁 Other Solutions (21)
 
 | Repository | Description / Scope | Visibility |
 |---|---|:---:|
 | [Advance-Request](https://github.com/AMT-Digital-Limited/Advance-Request) | Repository for Advance Request | `Private` |
 | [Assembly-Build-By-Product](https://github.com/AMT-Digital-Limited/Assembly-Build-By-Product) | AMT Assembly Build By Product Solution SuiteApp (Bundle 586316) | `Private` |
+| [Available-Budget-Report](https://github.com/AMT-Digital-Limited/Available-Budget-Report) | Solution | `Private` |
 | [Bank-Details](https://github.com/AMT-Digital-Limited/Bank-Details) | Repository for Bank Details | `Private` |
+| [Budget-Control-Check](https://github.com/AMT-Digital-Limited/Budget-Control-Check) | Solution | `Private` |
 | [Cheque-Solution](https://github.com/AMT-Digital-Limited/Cheque-Solution) | Core solution for Cheque-Solution | `Private` |
+| [Consultant-Portal](https://github.com/AMT-Digital-Limited/Consultant-Portal) | Source code for the Consultant UI Portal | `Private` |
+| [Consultant-Task-Tracker](https://github.com/AMT-Digital-Limited/Consultant-Task-Tracker) | Intake repository for all consultant requests and tasks | `Private` |
 | [Custom-Scripts](https://github.com/AMT-Digital-Limited/Custom-Scripts) | Central repository for custom client scripts | `Private` |
 | [demo-repository](https://github.com/AMT-Digital-Limited/demo-repository) | A code repository designed to show the best GitHub has to offer. | `Private` |
 | [Due-Invoices](https://github.com/AMT-Digital-Limited/Due-Invoices) | Core solution for Due-Invoices | `Private` |
+| [FCCS-Trial-Balance](https://github.com/AMT-Digital-Limited/FCCS-Trial-Balance) | Repository for FCCS Trail Balance | `Private` |
+| [Journal-Budget-Control](https://github.com/AMT-Digital-Limited/Journal-Budget-Control) | Solution | `Private` |
+| [Open-Purchase-Order-Report](https://github.com/AMT-Digital-Limited/Open-Purchase-Order-Report) | Solution | `Private` |
 | [Saved-Searches](https://github.com/AMT-Digital-Limited/Saved-Searches) | Central repository for custom saved searches | `Private` |
+| [SDF-Repository-Template](https://github.com/AMT-Digital-Limited/SDF-Repository-Template) | Standard template repository for NetSuite SDF bundles and scripts | `Private` |
 | [Trade-Payables](https://github.com/AMT-Digital-Limited/Trade-Payables) | Core solution for Trade-Payables | `Private` |
 | [Trade-Receivables](https://github.com/AMT-Digital-Limited/Trade-Receivables) | Core solution for Trade-Receivables | `Private` |
 | [Trading-Documents-Engine](https://github.com/AMT-Digital-Limited/Trading-Documents-Engine) | AMT Trading Documents Advanced Print Engine SuiteApp (Bundle 573811) | `Private` |
