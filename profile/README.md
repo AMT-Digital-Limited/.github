@@ -1,20 +1,19 @@
 # AMT Digital Limited: NetSuite Solutions Catalogue
 
-**Total Live Repositories: 81**  |  SDF Master Bundles: 20  |  Integrations & Reports: 6  |  Trading Documents: 16  |  Custom Solutions & Scripts: 18  
+**Total Live Repositories: 81**  |  SDF Master Bundles: 19  |  Reports & Searches: 7  |  Integrations: 7  |  Trading Documents: 18  |  Custom Solutions & Scripts: 16
 *Last updated: 2026-09-25*
 
 Welcome to the **AMT Digital Limited** enterprise repository catalogue. All NetSuite solutions are maintained as standalone repositories with complete **SuiteCloud Development Framework (SDF)** XML definitions (`Objects/`), custom records, fields, searches, and SuiteScripts (`FileCabinet/`).
 
 ---
 
-## 📦 NetSuite Official SDF Master Bundles (20)
+## 📦 NetSuite Official SDF Master Bundles (19)
 
 These repositories contain complete NetSuite SuiteCloud Development Framework (SDF) bundles with full XML object metadata, custom records, custom fields, and SuiteScripts:
 
 | Repository | Description / Scope | Visibility |
 |---|---|:---:|
 | [Amount-In-Words](https://github.com/AMT-Digital-Limited/Amount-In-Words) | AMT Amount in Words SuiteApp (Bundle 543316) | `Private` |
-| [Audit-Report](https://github.com/AMT-Digital-Limited/Audit-Report) | AMT Audit Report SuiteApp (Bundle 536558) | `Private` |
 | [Cross-Validation-Rule](https://github.com/AMT-Digital-Limited/Cross-Validation-Rule) | AMT Cross Validation Rule SuiteApp (Bundle 543591) | `Private` |
 | [Custom-GL-Lines-Bill](https://github.com/AMT-Digital-Limited/Custom-GL-Lines-Bill) | AMT Custom GL Lines Bill SuiteApp (Bundle 477140) | `Private` |
 | [Implementation-Centre](https://github.com/AMT-Digital-Limited/Implementation-Centre) | AMT Implementation Centre SuiteApp (Bundle 530427) | `Private` |
@@ -36,12 +35,29 @@ These repositories contain complete NetSuite SuiteCloud Development Framework (S
 
 ---
 
-## 🔗 Integrations & Financial Reporting (6)
+## 📊 NetSuite Reports & Saved Searches (7)
 
-Financial statement consolidation, Power BI connectors, and external payment gateway integrations:
+Custom reporting, budget controls, and saved searches:
 
 | Repository | Description / Scope | Visibility |
 |---|---|:---:|
+| [Audit-Report](https://github.com/AMT-Digital-Limited/Audit-Report) | AMT Audit Report SuiteApp (Bundle 536558) | `Private` |
+| [Available-Budget-Report](https://github.com/AMT-Digital-Limited/Available-Budget-Report) | Custom NetSuite Report / Saved Search | `Private` |
+| [Budget-Control-Check](https://github.com/AMT-Digital-Limited/Budget-Control-Check) | Custom NetSuite Report / Saved Search | `Private` |
+| [Inventory-Aging-Report](https://github.com/AMT-Digital-Limited/Inventory-Aging-Report) | Repository for Inventory Aging Report | `Private` |
+| [Journal-Budget-Control](https://github.com/AMT-Digital-Limited/Journal-Budget-Control) | Custom NetSuite Report / Saved Search | `Private` |
+| [Open-Purchase-Order-Report](https://github.com/AMT-Digital-Limited/Open-Purchase-Order-Report) | Custom NetSuite Report / Saved Search | `Private` |
+| [Saved-Searches](https://github.com/AMT-Digital-Limited/Saved-Searches) | Central repository for custom saved searches | `Private` |
+
+---
+
+## 🔌 3rd Party Integrations (7)
+
+Bi-directional integrations for external platforms (FIRS, Paga, Power BI, FCCS):
+
+| Repository | Description / Scope | Visibility |
+|---|---|:---:|
+| [FCCS-Trial-Balance](https://github.com/AMT-Digital-Limited/FCCS-Trial-Balance) | Repository for FCCS Trail Balance | `Private` |
 | [FIRS-E-Invoicing-Integration](https://github.com/AMT-Digital-Limited/FIRS-E-Invoicing-Integration) | AMT FIRS E-Invoicing Integration SuiteApp (Bundle 588590) | `Private` |
 | [FIRS-HSN-Categories](https://github.com/AMT-Digital-Limited/FIRS-HSN-Categories) | AMT FIRS HSN Categories & Custom Records SuiteApp (Bundle 596819) | `Private` |
 | [FIRS-HSN-Codes](https://github.com/AMT-Digital-Limited/FIRS-HSN-Codes) | AMT FIRS HSN Codes SuiteApp (Bundle 596961) | `Private` |
@@ -51,14 +67,14 @@ Financial statement consolidation, Power BI connectors, and external payment gat
 
 ---
 
-## 📑 Trading Documents & Print Templates (16)
+## 📄 Trading Documents & Advanced Print (18)
 
-Advanced HTML/PDF print templates, printout engines, and font assets:
+PDF Templates, GRV printouts, remittance advice, and HTML/CSS layouts:
 
 | Repository | Description / Scope | Visibility |
 |---|---|:---:|
 | [Arabic-Fonts](https://github.com/AMT-Digital-Limited/Arabic-Fonts) | Repository for Arabic Fonts | `Private` |
-| [Claims-Payment-Request](https://github.com/AMT-Digital-Limited/Claims-Payment-Request) | Trading Document / Print Template | `Private` |
+| [Claims-Payment-Request](https://github.com/AMT-Digital-Limited/Claims-Payment-Request) | Core solution for Claims-Payment-Request | `Private` |
 | [Cost-Sheet](https://github.com/AMT-Digital-Limited/Cost-Sheet) | Core solution for Cost-Sheet | `Private` |
 | [GRV-Export](https://github.com/AMT-Digital-Limited/GRV-Export) | Repository for GRV Export | `Private` |
 | [GRV-Printout](https://github.com/AMT-Digital-Limited/GRV-Printout) | Repository for GRV Printout | `Private` |
@@ -71,12 +87,14 @@ Advanced HTML/PDF print templates, printout engines, and font assets:
 | [Print-Job-Work-Order](https://github.com/AMT-Digital-Limited/Print-Job-Work-Order) | Core solution for Print-Job-Work-Order | `Private` |
 | [Print-Requisition](https://github.com/AMT-Digital-Limited/Print-Requisition) | Core solution for Print-Requisition | `Private` |
 | [Remittance-Advice](https://github.com/AMT-Digital-Limited/Remittance-Advice) | Repository for Remittance Advice | `Private` |
+| [Trading-Documents-Engine](https://github.com/AMT-Digital-Limited/Trading-Documents-Engine) | AMT Trading Documents Advanced Print Engine SuiteApp (Bundle 573811) | `Private` |
+| [Trading-Documents-Suite](https://github.com/AMT-Digital-Limited/Trading-Documents-Suite) | AMT Trading Documents Printouts & Templates SuiteApp (Bundle 573798) | `Private` |
 | [Vendor-Payment-Request](https://github.com/AMT-Digital-Limited/Vendor-Payment-Request) | Repository for Vendor Payment Request | `Private` |
 | [Vendor-Prepayment-Request-SDF](https://github.com/AMT-Digital-Limited/Vendor-Prepayment-Request-SDF) | AMT Vendor Prepayment Request SDF SuiteApp (Bundle 595110) | `Private` |
 
 ---
 
-## 🛠️ Business Operations & Custom Solutions (18)
+## ⚙️ Business Operations & Custom Solutions (16)
 
 Client-specific customizations, operational workflows, and automation scripts:
 
@@ -89,12 +107,10 @@ Client-specific customizations, operational workflows, and automation scripts:
 | [Currency-File](https://github.com/AMT-Digital-Limited/Currency-File) | Repository for Currency File | `Private` |
 | [Expense-Account-Default](https://github.com/AMT-Digital-Limited/Expense-Account-Default) | Repository for Expense Account Default | `Private` |
 | [Expense-Policy](https://github.com/AMT-Digital-Limited/Expense-Policy) | Repository for Expense Policy | `Private` |
-| [Inventory-Aging-Report](https://github.com/AMT-Digital-Limited/Inventory-Aging-Report) | Repository for Inventory Aging Report | `Private` |
 | [Journal-Sum](https://github.com/AMT-Digital-Limited/Journal-Sum) | Repository for Journal Sum | `Private` |
 | [MTN-Level-Approval](https://github.com/AMT-Digital-Limited/MTN-Level-Approval) | Repository for MTN Level Approval | `Private` |
 | [MTN-Transaction-project-Budget-Script](https://github.com/AMT-Digital-Limited/MTN-Transaction-project-Budget-Script) | Repository for MTN Transaction project Budget Script | `Private` |
 | [Netsuite-License-Dashboard](https://github.com/AMT-Digital-Limited/Netsuite-License-Dashboard) | Repository for Netsuite License Dashboard | `Private` |
-| [NSPB-Financial-Statements](https://github.com/AMT-Digital-Limited/NSPB-Financial-Statements) | NSPB Financial Statements Saved Searches | `Private` |
 | [PGP-Solution](https://github.com/AMT-Digital-Limited/PGP-Solution) | PGP Solution Scripts | `Private` |
 | [Project-Initiation-Script](https://github.com/AMT-Digital-Limited/Project-Initiation-Script) | Repository for Project Initiation Script | `Private` |
 | [Scripts](https://github.com/AMT-Digital-Limited/Scripts) | Repository for Scripts | `Private` |
@@ -103,46 +119,39 @@ Client-specific customizations, operational workflows, and automation scripts:
 
 ---
 
-## 📁 Other Solutions (21)
+## 📂 Other Solutions (14)
 
 | Repository | Description / Scope | Visibility |
 |---|---|:---:|
 | [Advance-Request](https://github.com/AMT-Digital-Limited/Advance-Request) | Repository for Advance Request | `Private` |
 | [Assembly-Build-By-Product](https://github.com/AMT-Digital-Limited/Assembly-Build-By-Product) | AMT Assembly Build By Product Solution SuiteApp (Bundle 586316) | `Private` |
-| [Available-Budget-Report](https://github.com/AMT-Digital-Limited/Available-Budget-Report) | Solution | `Private` |
 | [Bank-Details](https://github.com/AMT-Digital-Limited/Bank-Details) | Repository for Bank Details | `Private` |
-| [Budget-Control-Check](https://github.com/AMT-Digital-Limited/Budget-Control-Check) | Solution | `Private` |
 | [Cheque-Solution](https://github.com/AMT-Digital-Limited/Cheque-Solution) | Core solution for Cheque-Solution | `Private` |
 | [Consultant-Portal](https://github.com/AMT-Digital-Limited/Consultant-Portal) | Source code for the Consultant UI Portal | `Private` |
 | [Consultant-Task-Tracker](https://github.com/AMT-Digital-Limited/Consultant-Task-Tracker) | Intake repository for all consultant requests and tasks | `Private` |
 | [Custom-Scripts](https://github.com/AMT-Digital-Limited/Custom-Scripts) | Central repository for custom client scripts | `Private` |
 | [demo-repository](https://github.com/AMT-Digital-Limited/demo-repository) | A code repository designed to show the best GitHub has to offer. | `Private` |
 | [Due-Invoices](https://github.com/AMT-Digital-Limited/Due-Invoices) | Core solution for Due-Invoices | `Private` |
-| [FCCS-Trial-Balance](https://github.com/AMT-Digital-Limited/FCCS-Trial-Balance) | Repository for FCCS Trail Balance | `Private` |
-| [Journal-Budget-Control](https://github.com/AMT-Digital-Limited/Journal-Budget-Control) | Solution | `Private` |
-| [Open-Purchase-Order-Report](https://github.com/AMT-Digital-Limited/Open-Purchase-Order-Report) | Solution | `Private` |
-| [Saved-Searches](https://github.com/AMT-Digital-Limited/Saved-Searches) | Central repository for custom saved searches | `Private` |
+| [NSPB-Financial-Statements](https://github.com/AMT-Digital-Limited/NSPB-Financial-Statements) | NSPB Financial Statements Saved Searches | `Private` |
 | [SDF-Repository-Template](https://github.com/AMT-Digital-Limited/SDF-Repository-Template) | Standard template repository for NetSuite SDF bundles and scripts | `Private` |
 | [Trade-Payables](https://github.com/AMT-Digital-Limited/Trade-Payables) | Core solution for Trade-Payables | `Private` |
 | [Trade-Receivables](https://github.com/AMT-Digital-Limited/Trade-Receivables) | Core solution for Trade-Receivables | `Private` |
-| [Trading-Documents-Engine](https://github.com/AMT-Digital-Limited/Trading-Documents-Engine) | AMT Trading Documents Advanced Print Engine SuiteApp (Bundle 573811) | `Private` |
-| [Trading-Documents-Suite](https://github.com/AMT-Digital-Limited/Trading-Documents-Suite) | AMT Trading Documents Printouts & Templates SuiteApp (Bundle 573798) | `Private` |
 | [Transfer-Request](https://github.com/AMT-Digital-Limited/Transfer-Request) | Solution | `Private` |
 
 ---
 
-### 🛡️ Repository Structure Standard
+### 🏗️ Repository Structure Standard
 Each NetSuite SDF repository is organized with standard SuiteCloud structure:
 ```
-├── Objects/               # Custom records, fields, scripts, and searches (XML)
-├── FileCabinet/           # SuiteScripts, CSS, PDF templates, and images
-├── deploy.xml             # SDF deployment descriptor
-└── manifest.xml           # NetSuite App framework manifest
+📦 Objects/               # Custom records, fields, scripts, and searches (XML)
+📂 FileCabinet/           # SuiteScripts, CSS, PDF templates, and images
+📄 deploy.xml             # SDF deployment descriptor
+📄 manifest.xml           # NetSuite App framework manifest
 ```
 
 ---
 
-### 📜 Rules of Operations (GitHub Implementation Process Flow)
+### 🔒 Rules of Operations (GitHub Implementation Process Flow)
 To maintain strict code governance and quality control, all contributions must strictly adhere to the AMT Digital process flow:
 
 **1. Branch Naming Convention:**
